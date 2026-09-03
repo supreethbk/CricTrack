@@ -1,4 +1,4 @@
-Cricketer Management System — Final Integrated Version
+CricTrack is a Cricketer Management System
 
 This is ONE Java console application combining the original assignment requirements with the JDBC/MySQL database implementation.
 What is included
